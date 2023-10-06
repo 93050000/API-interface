@@ -60,33 +60,10 @@ Boot Starter 开发了客户端 SDK ，一行代码 即可调用接口，提高�
 
 **后端：** SpringBoot + Mysql + Redis + Nginx  + Nacos + Swagger2&knif4j + MyBatisPlus + Dubbo + gateway
 
-## 运行环境
-
-**服务器：** 腾讯云 4 核 8G CentOS7.6
-
-**对象存储：** 腾讯云 COS
-
-
-## 开发环境
-
-| 开发工具              | 说明               |
-| --------------------- | ----------------- |
-| IDEA                  | Java 开发工具 IDE  |
-| Webstorm              | 前端开发工具 IDE   |
-| DATAGRIP              | MySQL 远程连接工具 |
-| Redis Desktop Manager | Redis 远程连接工具 |
-| Xshell                | Linux 远程连接工具 |
-| Xftp                  | Linux 文件上传工具 |
-
-| 开发环境      | 版本   |
-| ------------- | ------ |
-| OpenJDK       | 8     |
-| MySQL         | 5.7+  |
-| Redis         | 6.2.6  |
-| nacos         | 2.2.1 |
 
 
 ## 项目截图
+
 ![](https://minger-1312880799.cos.ap-nanjing.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png)
 ![](https://minger-1312880799.cos.ap-nanjing.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE2.png)
 ![](https://minger-1312880799.cos.ap-nanjing.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE3.png)
